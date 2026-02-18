@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Air Quality Dashboard – Power BI
+# Indian Air Quality Dashboard – Power BI
 
 ## 📌 Overview
 This interactive Power BI dashboard analyzes air quality trends across Indian states and cities using AQI and pollutant concentration data.
@@ -22,5 +22,5 @@ To identify pollution patterns, compare regional air quality levels, and provide
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZlMWZiZTItMDYxZi00MGQyLWJjNTYtNmMxNzQzOTY3MDQyIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=10f19ee3fcb68ce0cb47)
 
 ## 📷 Dashboard Preview
-![Page 1](screenshots/Page1.png)
-![Page 2](screenshots/Page2.png)
+![Page 1](Indian-Air-Quality-Dashboard/blob/main/Indian-Air-Quality-Dashboard/screenshots/Page1.png)
+![Page 2](Indian-Air-Quality-Dashboard/blob/main/Indian-Air-Quality-Dashboard/screenshots/Page2.png)
